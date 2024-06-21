@@ -17,3 +17,4 @@ npm run start
 npm install
 npm run dev
 ```
+## trouble shooting
